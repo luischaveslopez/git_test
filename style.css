@@ -1,0 +1,20 @@
+.ONE {
+border: 15px blue;
+background-color: pink;
+width: 300px;
+padding: 32px;
+margin: 12px;
+}
+.TWO {
+    border: 15px purple;
+    background-color: lightblue;
+    width: 320px;
+    margin: 12px;
+}
+.THREE {
+    border:15px red;
+    background-color: orange;
+    padding: 32px;
+    margin-left: 150px;
+    width: 50px;
+}
